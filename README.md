@@ -22,7 +22,7 @@
 
 ## 🖼 Screenshots
 
-![Home Screen](screenshots/home.png)  
+![Home Screen](https://raw.githubusercontent.com/frrabbi-dev/All-Router-Admin/refs/heads/main/Screenshot_20251105-232211.jpg)  
 ![Device List](screenshots/device_list.png)  
 ![Settings](screenshots/settings.png)  
 ![Demo GIF](screenshots/demo.gif)
