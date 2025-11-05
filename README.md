@@ -41,7 +41,7 @@
 
 ## 📖 Quick Start Guide
 
-1. Download APK from [Releases](#)  
+1. Download APK from [Releases](https://github.com/frrabbi-dev/All-Router-Admin/releases/tag/v1.0.0)  
 2. Enable installation from unknown sources in Android settings  
 3. Install the APK on your device  
 4. Connect to the Wi-Fi network of the router you want to manage  
