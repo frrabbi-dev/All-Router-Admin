@@ -23,13 +23,11 @@
 ## 🖼 Screenshots
 
 ![Home Screen](https://raw.githubusercontent.com/frrabbi-dev/All-Router-Admin/refs/heads/main/Screenshot_20251105-232211.jpg)  
-![Device List](screenshots/device_list.png)  
-![Settings](screenshots/settings.png)  
-![Demo GIF](screenshots/demo.gif)
+![Device List](https://raw.githubusercontent.com/frrabbi-dev/All-Router-Admin/refs/heads/main/Screenshot_20251105-232211.jpg)  
+![Settings](https://raw.githubusercontent.com/frrabbi-dev/All-Router-Admin/refs/heads/main/Screenshot_20251105-234704.jpg)  
 
-> 💡 Tip: Add more screenshots or GIFs for dynamic feature demonstration.
 
----
+> 💡
 
 ## 🛠 Changelog (v1.0)
 
